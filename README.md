@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Het Trivedi
 
-<!--
-**hettrivedi-1804/hettrivedi-1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Problem Solver  
 
-Here are some ideas to get you started:
+💻 Passionate about building efficient, user-friendly web applications and exploring innovative solutions in software development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Constantly learning and improving skills in modern web technologies, backend development, and system design  
+
+🛠️ Tech Stack & Skills  
+- **Languages**: Python, Java, PHP, JavaScript, C/C++  
+- **Web Development**: HTML, CSS, Django, Tailwind CSS, MySQL, SQLite  
+- **Frameworks & Tools**: Django, Arduino, Android Basics  
+- **Soft Skills**: Leadership, Team Collaboration, Critical Thinking, Adaptability  
+
+### 🏆 Certifications  
+- Django Workshop – SKPIMCS  
+- Software Testing – SVICS  
+- Essential Python Libraries for Machine Learning – LDRP  
+
+### 📫 Let’s Connect!  
+📧 Email: [hettrivedi824@gmail.com](mailto:hettrivedi824@gmail.com)  
+🔗 LinkedIn: [HET Trivedi](https://www.linkedin.com/in/het-trivedi-7b540529b/)
+💼 Open to opportunities in Full-Stack Development, Backend Engineering & Software Development  
+
+💞️ Looking to collaborate on Web Development, Django, PHP, or IoT-based projects!  
+
+---
