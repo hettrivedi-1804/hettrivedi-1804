@@ -12,11 +12,6 @@
 - **Frameworks & Tools**: Django, Arduino, Android Basics  
 - **Soft Skills**: Leadership, Team Collaboration, Critical Thinking, Adaptability  
 
-### 🏆 Certifications  
-- Django Workshop – SKPIMCS  
-- Software Testing – SVICS  
-- Essential Python Libraries for Machine Learning – LDRP  
-
 ### 📫 Let’s Connect!  
 📧 Email: [hettrivedi824@gmail.com](mailto:hettrivedi824@gmail.com)  
 🔗 LinkedIn: [HET Trivedi](https://www.linkedin.com/in/het-trivedi-7b540529b/)
